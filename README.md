@@ -33,6 +33,3 @@ https://bookrecommendation-b6faq8qq4rzsfxgxawuvyo.streamlit.app/
 
 3. Run the app
    streamlit run app.py
-
-├── data.csv                  → Raw dataset
-└── requirements.txt          → Dependencies
